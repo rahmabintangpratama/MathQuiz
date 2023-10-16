@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\WinFormsKuisMatematika\WinFormsKuisMatematika\bin\Debug\WinFormsKuisMatematika.exe.config
+C:\Users\acer\source\repos\WinFormsKuisMatematika\WinFormsKuisMatematika\bin\Debug\WinFormsKuisMatematika.exe
+C:\Users\acer\source\repos\WinFormsKuisMatematika\WinFormsKuisMatematika\bin\Debug\WinFormsKuisMatematika.pdb
+C:\Users\acer\source\repos\WinFormsKuisMatematika\WinFormsKuisMatematika\obj\Debug\WinFormsKuisMatematika.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\WinFormsKuisMatematika\WinFormsKuisMatematika\obj\Debug\WinFormsKuisMatematika.Form1.resources
+C:\Users\acer\source\repos\WinFormsKuisMatematika\WinFormsKuisMatematika\obj\Debug\WinFormsKuisMatematika.Properties.Resources.resources
+C:\Users\acer\source\repos\WinFormsKuisMatematika\WinFormsKuisMatematika\obj\Debug\WinFormsKuisMatematika.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\WinFormsKuisMatematika\WinFormsKuisMatematika\obj\Debug\WinFormsKuisMatematika.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\WinFormsKuisMatematika\WinFormsKuisMatematika\obj\Debug\WinFormsKuisMatematika.exe
+C:\Users\acer\source\repos\WinFormsKuisMatematika\WinFormsKuisMatematika\obj\Debug\WinFormsKuisMatematika.pdb
